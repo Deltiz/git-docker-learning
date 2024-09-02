@@ -14,6 +14,7 @@ git commit -m "Lagt till meddelandet 'hej de funkar'"
 4. //pusha till main
 5. git push origin main
    
-
+obs kanse mste git config --global user.name "Adam"
+git config user.email "adamwretfors@hotmail.com
 
 
